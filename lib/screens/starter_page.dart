@@ -67,7 +67,7 @@ class StarterScreen extends StatelessWidget {
                   style: TextStyle(
                     color: const Color(0xFF0F0A32),
                     fontSize: 30.sp,
-                    fontWeight: FontWeight.w500,
+                    fontWeight: FontWeight.w700,
                   ),
                 ),
                 SizedBox(
